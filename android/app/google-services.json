@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857225194327",
+    "project_id": "pushnotf-mobile-rtc",
+    "storage_bucket": "pushnotf-mobile-rtc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857225194327:android:28c760729644b6aab66c12",
+        "android_client_info": {
+          "package_name": "com.example.realtime_communication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZW8bRaIKO1mJYwVzctvAN2ktB9Ek8Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
